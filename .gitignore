@@ -1,2 +1,9 @@
 *.csv
-./data
+data/*
+src/bin/
+src/include/
+src/lib/
+src/lib64
+src/share
+src/.ipynb_checkpoints
+pyvenv.cfg
