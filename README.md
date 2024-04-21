@@ -1,1 +1,3 @@
-# CS-418-Group-16
+# CS-418, Spring 2024
+
+Analysis project on traffic accidents in Chicago.
